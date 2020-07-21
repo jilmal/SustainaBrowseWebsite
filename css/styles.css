@@ -2483,7 +2483,7 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #40916c;
   border-color: #269764;
-  box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(149, 213, 178, 0.603);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
@@ -10069,7 +10069,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #d8e2dc;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10119,7 +10119,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #d8e2dc;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
